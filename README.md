@@ -8,5 +8,5 @@ https://www.udemy.com/course/practical-uicollectionview-in-ios-and-swift/
 - Firestore Database
 
 <br><br>
-![demo]https://github.com/YamamotoDesu/UICollectionView-Swift/blob/main/UICollectionView.gif)
+![demo](https://github.com/YamamotoDesu/UICollectionView-Swift/blob/main/UICollectionView.gif)
 <br><br>
