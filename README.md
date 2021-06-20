@@ -1,5 +1,5 @@
 # UICollectionView学習記録  
-Udemy: Practical UICollectionView in iOS and Swift
+Udemy: Practical UICollectionView in iOS and Swift  
 https://www.udemy.com/course/practical-uicollectionview-in-ios-and-swift/
 
 # ツール、開発環境など
